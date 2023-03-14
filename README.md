@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Haroonkhan525
 - 👀 I’m interested in solving cyber security challenges
 - 🌱 I’m CTF player and Ethical Hacker
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
